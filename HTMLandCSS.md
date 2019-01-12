@@ -81,10 +81,10 @@ IDs are attributes that are used only on one element ONLY and noted with a “#�
 e.g.
 ```
 HTML: 
-<a id=”leesName”>Lee Ngo</a>
+<a id=”hero”>Batman</a>
 
 CSS: 
-#leesName { 
+#hero { 
 	color: white; 
 }
 ```
@@ -97,7 +97,7 @@ IDs are used to direct functions to unique elements in the HTML so that there’
 Classes are attributes something to multiple elements on a page noted with a “.” symbol in CSS.
 ```
 HTML: 
-<a class=”ninja”>Lee Ngo</a>
+<a class=”ninja”>Mr. Miyagi</a>
 
 CSS: 
 .ninja { 
