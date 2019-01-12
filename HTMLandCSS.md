@@ -115,6 +115,8 @@ Classes are used to change or affect multiple items in an HTML document at once
 
 In tandem, you can do a lot with HTML & CSS! Let's give it a shot!
 
+[Good Resource for CSS](https://flukeout.github.io/)
+
 ## LET'S CODE!
 
 ###### Remember:
