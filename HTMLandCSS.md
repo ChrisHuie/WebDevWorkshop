@@ -34,6 +34,9 @@ Everything is wrapped like layers of an onion, `<opened>` and `</closed>`
 - `<link />` connects this to related documents
 - `<input />` creates an input field
 
+See More tags [here](https://www.w3schools.com/tags/ref_byfunc.asp)
+
+
 #### HTML Attributes:
 HTML attributes inform the browser on what to do with a tagged piece of content.
 Attributes generally appear as name-value pairs. 
@@ -51,6 +54,8 @@ Attributes generally appear as name-value pairs.
 How do we check elements for whether they're talking to the browser? Use the **inspect element** feature!
 
 But... how do we make HTML... better?
+
+Learn more HTML [here](https://www.w3schools.com/Html/)
 
 ## Overview of CSS
 
