@@ -1,7 +1,7 @@
 # 2019 Begineer's Web Dev Workshop
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com) 
-or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) our Phoenix Admissions Advisor if you have questions.
+or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) 🌵 our Phoenix Admissions Advisor if you have questions.
 
 
 ### FAQ: 
@@ -45,9 +45,9 @@ So let's get started telling our computer to "cook" up some awesome things for u
 
 ## What this workshop is
 
-A super friendly introduction to JavaScript. No previous experience expected! 
+A super friendly introduction and no previous experience is expected! 
 
-You can't learn EVERYTHING in ~5 hours. But you can learn enough to solve problems and get excited about
+You can't learn EVERYTHING in ~5 hours. But you can learn enough to do cool things and get excited about
 the power of this SKILL!
 
 - This course is for absolute beginners
@@ -69,7 +69,7 @@ Hello I'm [Chris Huie](https://www.facebook.com/chris.huie.14). I'm the Phoenix 
 ## About Galvanize:
 A giant nerd Castle 🤓🏰 and community of learners, educators, entrepreneurs, volunteers, and a lot more...
   - Coworking/Community: Open-seating, reserved desks, or suites for your business ([Hart Steen](hart.steen@galvanize.com))
-  - Education: We teach software engineering and data science for those looking to break into the fields
+  - Education: We teach software engineering and data science for those looking to break into the fields ([Learn More](https://www.galvanize.com/courses/request-info))
   - Events: We believe in impacting and investing in our community. We do that through events like this!
   
 
