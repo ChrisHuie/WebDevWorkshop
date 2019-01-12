@@ -12,9 +12,17 @@ or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) our Phoenix Admission
 
 
 ## Overview
-The goal of this brief course is to provide you with a fun introduction to the world of development with JavaScript.
+The goal of this brief course is to provide you with a fun introduction to the world of web development. We won't be able to make you a web developer in a day but we will give you the tools to start on your journey. Remember, the Phoenix tech community and Galvanize are here to support you on this learning path! 👩‍💻🌵👨‍💻
 
-#### Here's what we'll be doing:
+
+#### Here's what we'll be doing (Morning):
+* Setting up our computers for web development
+* Overview of basic HTML concepts
+* Overview of CSS concepts
+* Playing around in the sandbox
+
+
+#### Here's what we'll be doing (Afternoon):
 * Talking about the JavaScript ecosystem and it's place alongside other languages
 * Overview of basic JavaScript and fundamental programming concepts
 * Playing around and break things as we get hands-on in labs
@@ -22,8 +30,8 @@ The goal of this brief course is to provide you with a fun introduction to the w
 
 #### What is programming?
 Programming is giving your computer a set of instructions to perform a task. 
-It's similar to creating a recipe that someone else then has to follow.
-This should become more clear as we dive in :-)
+It's very similar to creating a recipe that someone else then has to follow.
+So let's get started telling our computer to "cook" up some awesome things for us.
 
 
 ## Want to Code Along With Me?
@@ -31,7 +39,7 @@ This should become more clear as we dive in :-)
 
 #### Please set up the following:
 
-* We will be using an online text editor for this workshop. You can sign up here: [https://repl.it/](https://repl.it/)
+* I will be using an onlone editor called [Codepen](https://codepen.io/) but Atom, Sublime, and other text editors are ok
 
 
 
