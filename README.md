@@ -79,4 +79,4 @@ A giant nerd Castle 🤓🏰 and community of learners, educators, entrepreneurs
 - Jan. 15th (Tue) - [Learn to Code! Intro to SQL and Relational Databases](https://www.eventbrite.com/e/learn-to-code-intro-to-sql-and-relational-databases-tickets-54216286372)
 - Jan. 16th (Wed) - [Data Analyst to Data Scientist: Learn Python with an Excel Mindset](https://www.eventbrite.com/e/data-analyst-to-data-scientist-learn-python-with-an-excel-mindset-tickets-54504342957)
 - Jan. 19th (Sat) - [Learn to Code in 2019! JavaScript Foundations](https://www.eventbrite.com/e/learn-to-code-in-2019-javascript-foundations-tickets-54285590663)
-- Jan. 26th (Sat) - [IoT DevFest ($35)](https://www.iotdevfest.com/)
+- Jan. 26th (Sat) - [IoT DevFest ($20)](https://ti.to/iot-devfest/iot-devfest-2019/discount/MEETUPMEETUP)
