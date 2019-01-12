@@ -4,6 +4,8 @@ Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com
 or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) 🌵 our Phoenix Admissions Advisor if you have questions.
 
 
+**_Before we get started can you please fill out this [Survey](https://www.surveymonkey.com/r/MHWLRV6) so we can better serve Mesa_**
+
 ### FAQ: 
 
 - WIFI: `GEvents` | Password: GEvents515
@@ -74,8 +76,7 @@ A giant nerd Castle 🤓🏰 and community of learners, educators, entrepreneurs
   
 
 ## Some Other Upcoming Events I'm Hosting:
-- Jan. 7th (Mon) - [Intro to Computer Vision & Neural Nets!](https://www.eventbrite.com/e/intro-to-computer-vision-neural-nets-tickets-53659298406)
-- Jan. 10th (Thur) - [Galvanize Phoenix: Data Science & Web Development Demo Day](https://www.eventbrite.com/e/galvanize-phoenix-data-science-web-development-demo-day-tickets-53856786097)
-- Jan. 12th (Sat) - [2019 Beginner's Web Dev Workshop](https://www.eventbrite.com/e/2019-beginners-web-dev-workshop-tickets-53953049022)
 - Jan. 15th (Tue) - [Learn to Code! Intro to SQL and Relational Databases](https://www.eventbrite.com/e/learn-to-code-intro-to-sql-and-relational-databases-tickets-54216286372)
+- Jan. 16th (Wed) - [Data Analyst to Data Scientist: Learn Python with an Excel Mindset](https://www.eventbrite.com/e/data-analyst-to-data-scientist-learn-python-with-an-excel-mindset-tickets-54504342957)
 - Jan. 19th (Sat) - [Learn to Code in 2019! JavaScript Foundations](https://www.eventbrite.com/e/learn-to-code-in-2019-javascript-foundations-tickets-54285590663)
+- Jan. 26th (Sat) - [IoT DevFest ($35)](https://www.iotdevfest.com/)
