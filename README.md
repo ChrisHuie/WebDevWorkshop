@@ -8,8 +8,7 @@ or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) 🌵 our Phoenix Admi
 
 ### FAQ: 
 
-- WIFI: `GEvents` | Password: GEvents515
-- WIFI: `Galvanize Guest` | Password: beapineaplle
+- WIFI: `MCHE Guest WiFi` | Password: MesaRocks!
 - Bathrooms: Out the doors and to your left about half way down the hall
 
 
